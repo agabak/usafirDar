@@ -1,0 +1,21 @@
+{
+  "name": "usafirdar",
+  "description": "app hepling user to find traspotation in dar es salaam",
+  "main": "index.js",
+  "authors": [
+    "agaba kabunga"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/agabak/usafirDar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "bootstrap": "^3.3.7"
+  }
+}

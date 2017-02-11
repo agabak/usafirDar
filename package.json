@@ -1,0 +1,26 @@
+{
+  "name": "usafirdar",
+  "version": "1.0.0",
+  "description": "app hepling user to find traspotation in dar es salaam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agabak/usafirDar.git"
+  },
+  "author": "agaba kabunga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agabak/usafirDar/issues"
+  },
+  "homepage": "https://github.com/agabak/usafirDar#readme",
+  "devDependencies": {
+    "express": "^4.14.1"
+  },
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
